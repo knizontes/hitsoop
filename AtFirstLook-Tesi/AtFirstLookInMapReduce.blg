@@ -1,0 +1,89 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: AtFirstLookInMapReduce.aux
+The style file: plain.bst
+Database file #1: biblio.bib
+I was expecting a `,' or a `}'---line 46 of file biblio.bib
+ : 
+ : month{january}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "hadoop:hadoop" isn't style-file defined
+--line 80 of file biblio.bib
+I was expecting a `,' or a `}'---line 82 of file biblio.bib
+ : 
+ : title ={Hadoop},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "hadoop_MapReduce:hadoop" isn't style-file defined
+--line 88 of file biblio.bib
+I was expecting a `,' or a `}'---line 90 of file biblio.bib
+ : 
+ : title ={Hadoop MapReduce},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "hadoop_MapReduce:yahoo" isn't style-file defined
+--line 97 of file biblio.bib
+I was expecting a `,' or a `}'---line 99 of file biblio.bib
+ : 
+ : title ={Hadoop MapReduce},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 107 of file biblio.bib
+ : @online{hadoop_MapReduce:hadoop
+ :                                ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "mapreduce:google" isn't style-file defined
+--line 119 of file biblio.bib
+Warning--to sort, need author or key in mapreduce:google
+Warning--empty journal in AFL:article
+Warning--empty journal in AFLDetection:articolo
+Warning--empty journal in AFLNetworks:articolo
+Warning--empty journal in mapreduce:tutorial
+Warning--empty year in mapreduce:tutorial
+Warning--empty journal in mapreduce:model
+Warning--empty year in mapreduce:model
+Warning--empty journal in mapreduce:pres
+Warning--empty journal in mapreduce:cluster
+Warning--empty year in mapreduce:cluster
+You've used 13 entries,
+            2118 wiz_defined-function locations,
+            543 strings with 5320 characters,
+and the built_in function-call counts, 2572 in all, are:
+= -- 220
+> -- 85
+< -- 0
++ -- 38
+- -- 24
+* -- 109
+:= -- 447
+add.period$ -- 28
+call.type$ -- 13
+change.case$ -- 48
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 122
+empty$ -- 253
+format.name$ -- 24
+if$ -- 525
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 11
+newline$ -- 57
+num.names$ -- 24
+pop$ -- 94
+preamble$ -- 1
+purify$ -- 38
+quote$ -- 0
+skip$ -- 103
+stack$ -- 0
+substring$ -- 66
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 11
+while$ -- 24
+width$ -- 15
+write$ -- 101
+(There were 5 error messages)

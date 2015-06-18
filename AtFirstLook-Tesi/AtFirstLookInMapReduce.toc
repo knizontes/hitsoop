@@ -1,0 +1,345 @@
+\select@language {italian}
+\contentsline {paragraph}{}{6}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {chapter}{\numberline {1}At First Look}{8}
+\contentsline {section}{\numberline {1.1}Cos'\IeC {\`e} ``At First Look'' }{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {subsection}{\numberline {1.1.1}Componenti Connesse (\textbf {CC})}{9}
+\contentsline {subsection}{\numberline {1.1.2}Componenti Bi-Connesse (\textbf {BCC})}{10}
+\contentsline {subsection}{\numberline {1.1.3}Articulation Points}{10}
+\contentsline {subsection}{\numberline {1.1.4}Bridges}{11}
+\contentsline {section}{\numberline {1.2}Il \emph {classical streaming}}{11}
+\contentsline {subsection}{\numberline {1.2.1}Per Item Processing Time}{12}
+\contentsline {subsection}{\numberline {1.2.2}Limitazioni di memoria}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {subsection}{\numberline {1.2.3}Algoritmi e streaming}{12}
+\contentsline {section}{\numberline {1.3}Navigational Sketch}{12}
+\contentsline {paragraph}{}{13}
+\contentsline {subsection}{\numberline {1.3.1}La struttura di un Navigational Sketch}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {subsection}{\numberline {1.3.2}\emph {Color degree} di un nodo nel Navigational Sketch}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {paragraph}{Lemma:}{14}
+\contentsline {paragraph}{Dimostrazione:}{14}
+\contentsline {section}{\numberline {1.4}L'algoritmo At First Look}{14}
+\contentsline {subsection}{\numberline {1.4.1}Definizione del problema}{14}
+\contentsline {subsection}{\numberline {1.4.2}Processamento dello stream}{15}
+\contentsline {paragraph}{}{15}
+\contentsline {subsection}{\numberline {1.4.3}Come funziona At First Look}{15}
+\contentsline {paragraph}{}{16}
+\contentsline {section}{\numberline {1.5}Correttezza di At First Look}{17}
+\contentsline {subsection}{\numberline {1.5.1}Invarianti}{17}
+\contentsline {subsection}{\numberline {1.5.2}Alberi e componenti connesse}{17}
+\contentsline {paragraph}{Teorema 1:}{17}
+\contentsline {paragraph}{Dimostrazione:}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {subsection}{\numberline {1.5.3}Archi \emph {colored} e componenti biconnesse}{18}
+\contentsline {paragraph}{Teorema 2:}{18}
+\contentsline {paragraph}{Dimostrazione:}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {subsection}{\numberline {1.5.4}Archi \emph {solid} e \emph {bridges}}{18}
+\contentsline {paragraph}{Teorema 3:}{18}
+\contentsline {paragraph}{Dimostrazione:}{18}
+\contentsline {paragraph}{}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {subsection}{\numberline {1.5.5}Color degree $d_c(n)$ e articulation points}{19}
+\contentsline {paragraph}{Teorema 4:}{19}
+\contentsline {paragraph}{Dimostrazione:}{19}
+\contentsline {section}{\numberline {1.6}Memoria e struttura dei dati}{19}
+\contentsline {paragraph}{}{20}
+\contentsline {subsection}{\numberline {1.6.1}Supporto alle operazioni}{20}
+\contentsline {paragraph}{A : }{20}
+\contentsline {paragraph}{B :}{20}
+\contentsline {paragraph}{C :}{20}
+\contentsline {paragraph}{D :}{20}
+\contentsline {paragraph}{E :}{20}
+\contentsline {subsection}{\numberline {1.6.2}La struttura dati}{20}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {paragraph}{}{21}
+\contentsline {subsection}{\numberline {1.6.3}Propriet\IeC {\`a} del Navigational Sketch}{21}
+\contentsline {section}{\numberline {1.7}Analisi delle prestazioni}{22}
+\contentsline {subsection}{\numberline {1.7.1}Numero di esecuzioni per operazione}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {subsection}{\numberline {1.7.2}Costo delle operazioni}{22}
+\contentsline {paragraph}{Union by size:}{22}
+\contentsline {paragraph}{Least Common Ancestor:}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{Teorema:}{23}
+\contentsline {paragraph}{}{23}
+\contentsline {paragraph}{Teorema:}{23}
+\contentsline {paragraph}{Corollario:}{23}
+\contentsline {chapter}{\numberline {2}MapReduce}{24}
+\contentsline {section}{\numberline {2.1}Cos'\IeC {\`e} MapReduce}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {paragraph}{Il sistema a run-time:}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{WordCount:}{25}
+\contentsline {section}{\numberline {2.2}Input e Output}{25}
+\contentsline {subsection}{\numberline {2.2.1}L'Input}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {subsection}{\numberline {2.2.2}Output intermedi}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {subsection}{\numberline {2.2.3}L'Output}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {section}{\numberline {2.3}La funzione \emph {Map()}}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {paragraph}{}{26}
+\contentsline {section}{\numberline {2.4}La funzione \emph {Reduce()}}{27}
+\contentsline {paragraph}{La funzione \emph {reduce}}{27}
+\contentsline {paragraph}{}{27}
+\contentsline {section}{\numberline {2.5}La funzione \emph {Combine()}}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {section}{\numberline {2.6}Struttura di MapReduce}{29}
+\contentsline {paragraph}{}{29}
+\contentsline {subsection}{\numberline {2.6.1}L'esecuzione}{29}
+\contentsline {section}{\numberline {2.7}\emph {Map} step}{30}
+\contentsline {subsection}{\numberline {2.7.1}Splitting dell'input e diffusione del programma}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {paragraph}{}{30}
+\contentsline {subsection}{\numberline {2.7.2}Assegnazione dei \emph {tasks} ai \emph {mappers}}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {subsection}{\numberline {2.7.3}Esecuzione dei \emph {mappers}}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {section}{\numberline {2.8}\emph {Shuffle} step}{31}
+\contentsline {subsection}{\numberline {2.8.1}Salvataggio risultati intermedi}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {subsection}{\numberline {2.8.2}Ordinamento risultati intermedi}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {section}{\numberline {2.9}\emph {Reduce} step}{32}
+\contentsline {subsection}{\numberline {2.9.1}Esecuzione dei \emph {reducers}}{32}
+\contentsline {paragraph}{}{32}
+\contentsline {paragraph}{}{32}
+\contentsline {subsection}{\numberline {2.9.2}Termine del programma}{32}
+\contentsline {paragraph}{}{32}
+\contentsline {section}{\numberline {2.10}Valutazione di un Algoritmo MapReduce}{32}
+\contentsline {paragraph}{}{32}
+\contentsline {chapter}{\numberline {3}Hadoop}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {section}{\numberline {3.1}Cos'\IeC {\`e} Hadoop}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {paragraph}{}{35}
+\contentsline {section}{\numberline {3.2}Il framework Hadoop}{35}
+\contentsline {subsection}{\numberline {3.2.1}Hadoop Common}{35}
+\contentsline {subsection}{\numberline {3.2.2}Hadoop Distributed File System - HDFS}{35}
+\contentsline {paragraph}{}{36}
+\contentsline {paragraph}{}{36}
+\contentsline {subsection}{\numberline {3.2.3}Hadoop MapReduce}{36}
+\contentsline {section}{\numberline {3.3}Struttura di un Cluster Hadoop}{36}
+\contentsline {paragraph}{}{36}
+\contentsline {subsection}{\numberline {3.3.1}configurazione del cluster}{36}
+\contentsline {paragraph}{}{36}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {subsection}{\numberline {3.3.2}JobTracker e TaskTracker}{37}
+\contentsline {subsubsection}{Il TaskTracker}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {paragraph}{}{38}
+\contentsline {subsubsection}{Il JobTracker}{38}
+\contentsline {paragraph}{}{38}
+\contentsline {subsection}{\numberline {3.3.3}NameNode e DataNode}{39}
+\contentsline {subsubsection}{DataNode}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {subsubsection}{NameNode}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {paragraph}{}{40}
+\contentsline {section}{\numberline {3.4}Uso di Hadoop}{40}
+\contentsline {subsection}{\numberline {3.4.1}Configurazione del cluster}{40}
+\contentsline {subsubsection}{\emph {core-site.xml}}{41}
+\contentsline {subsubsection}{\emph {mapred-site.xml}}{41}
+\contentsline {subsubsection}{\emph {hdfs-site.xml}}{41}
+\contentsline {subsection}{\numberline {3.4.2}Diffusione del sistema Hadoop nel cluster}{41}
+\contentsline {paragraph}{}{41}
+\contentsline {subsection}{\numberline {3.4.3}Sviluppo e compilazione del programma MapReduce}{42}
+\contentsline {subsubsection}{Mapper}{42}
+\contentsline {paragraph}{}{42}
+\contentsline {subsubsection}{Reducer}{42}
+\contentsline {paragraph}{}{43}
+\contentsline {paragraph}{}{43}
+\contentsline {paragraph}{}{43}
+\contentsline {subsection}{\numberline {3.4.4}Avvio dell'HDFS e dei processi MapReduce}{43}
+\contentsline {paragraph}{}{43}
+\contentsline {paragraph}{}{43}
+\contentsline {paragraph}{}{43}
+\contentsline {subsection}{\numberline {3.4.5}Caricamento dei dati in input}{44}
+\contentsline {paragraph}{}{44}
+\contentsline {subsection}{\numberline {3.4.6}Esecuzione del programma MapReduce}{44}
+\contentsline {subsection}{\numberline {3.4.7}Prelevamento dell'output}{45}
+\contentsline {paragraph}{}{45}
+\contentsline {chapter}{\numberline {4}Implementazione di At First Look - Hitsura}{46}
+\contentsline {paragraph}{}{46}
+\contentsline {section}{\numberline {4.1}Funzionamento di Hitsura}{46}
+\contentsline {subsection}{\numberline {4.1.1}L'input}{47}
+\contentsline {paragraph}{}{47}
+\contentsline {paragraph}{}{47}
+\contentsline {paragraph}{Intestazione:}{47}
+\contentsline {paragraph}{Body:}{47}
+\contentsline {paragraph}{}{48}
+\contentsline {paragraph}{Nota:}{48}
+\contentsline {subsection}{\numberline {4.1.2}L'esecuzione}{48}
+\contentsline {subsubsection}{Allocazione del Navigational Sketch}{48}
+\contentsline {subsubsection}{Processamento degli archi}{48}
+\contentsline {paragraph}{}{48}
+\contentsline {subsubsection}{Stampa dell'output}{49}
+\contentsline {paragraph}{}{49}
+\contentsline {section}{\numberline {4.2}Union-by-Size? No, grazie!}{49}
+\contentsline {subsection}{\numberline {4.2.1}Costo della ricerca di percorsi nel Navigational Sketch}{50}
+\contentsline {paragraph}{}{50}
+\contentsline {paragraph}{}{50}
+\contentsline {subsection}{\numberline {4.2.2}Il Navigational Sketch in Hitsura}{50}
+\contentsline {subsection}{\numberline {4.2.3}Find in Hitsura}{51}
+\contentsline {paragraph}{lemma 1:}{51}
+\contentsline {paragraph}{lemma 2:}{52}
+\contentsline {paragraph}{}{52}
+\contentsline {subsubsection}{Gli \emph {Strong Brothers}}{52}
+\contentsline {paragraph}{}{53}
+\contentsline {paragraph}{}{53}
+\contentsline {subsection}{\numberline {4.2.4}Abbandono di union-by-size}{53}
+\contentsline {paragraph}{}{53}
+\contentsline {paragraph}{}{54}
+\contentsline {subsubsection}{Union-by-Size \& CCUnion}{54}
+\contentsline {paragraph}{}{54}
+\contentsline {paragraph}{}{54}
+\contentsline {subsubsection}{Union-by-Size \& BCCUnion}{55}
+\contentsline {section}{\numberline {4.3}Il codice di Hitsura}{55}
+\contentsline {subsection}{\numberline {4.3.1}\emph {AtFirstLook.java}}{56}
+\contentsline {subsubsection}{Navigational Sketch}{56}
+\contentsline {paragraph}{\emph {}:}{56}
+\contentsline {paragraph}{Metodi per la ricerca e l'inserzione dei nodi:}{56}
+\contentsline {paragraph}{Metodi per le operazioni di \emph {union}:}{56}
+\contentsline {subsubsection}{Lettura dell'input}{57}
+\contentsline {paragraph}{Metodi per la lettura dell'input:}{57}
+\contentsline {subsubsection}{Stampa dell'output}{57}
+\contentsline {paragraph}{Metodi di stampa dell'output:}{57}
+\contentsline {subsection}{\numberline {4.3.2}\emph {AFLNode.java}}{57}
+\contentsline {subsubsection}{AFLNode}{57}
+\contentsline {subsubsection}{Metodi per la ricerca di percorsi nel Navigational Sketch}{58}
+\contentsline {subsubsection}{Altri metodi}{58}
+\contentsline {subsection}{\numberline {4.3.3}\emph {AncestorFlag.java}}{59}
+\contentsline {chapter}{\numberline {5}Hitsura su Hadoop - HitSoop}{60}
+\contentsline {section}{\numberline {5.1}Struttura di HitSoop}{60}
+\contentsline {subsection}{\numberline {5.1.1}Architettura MapReduce di HitSoop}{61}
+\contentsline {paragraph}{}{61}
+\contentsline {subsection}{\numberline {5.1.2}Il ciclo MapReduce}{61}
+\contentsline {paragraph}{}{61}
+\contentsline {section}{\numberline {5.2}La funzione \emph {Map()}}{61}
+\contentsline {section}{\numberline {5.3}Le funzioni \emph {Combine()} e \emph {Reduce()}}{62}
+\contentsline {subsection}{\numberline {5.3.1}L'input di \emph {Reduce()}}{62}
+\contentsline {paragraph}{}{62}
+\contentsline {paragraph}{}{62}
+\contentsline {subsection}{\numberline {5.3.2}Funzionamento di \emph {Reduce()}}{63}
+\contentsline {paragraph}{}{63}
+\contentsline {paragraph}{}{64}
+\contentsline {section}{\numberline {5.4}Prova di correttezza}{65}
+\contentsline {paragraph}{}{65}
+\contentsline {paragraph}{}{65}
+\contentsline {subsection}{\numberline {5.4.1}Alberi e componenti connesse}{66}
+\contentsline {paragraph}{Teorema 1:}{66}
+\contentsline {paragraph}{Dimostrazione:}{66}
+\contentsline {paragraph}{}{66}
+\contentsline {paragraph}{}{66}
+\contentsline {subsection}{\numberline {5.4.2}Nodi fratelli e componenti biconnesse}{67}
+\contentsline {paragraph}{Teorema 2:}{67}
+\contentsline {paragraph}{Dimostrazione:}{67}
+\contentsline {paragraph}{}{67}
+\contentsline {paragraph}{}{67}
+\contentsline {subsection}{\numberline {5.4.3}Archi padre-figlio e \emph {bridges}}{69}
+\contentsline {paragraph}{Teorema 3:}{69}
+\contentsline {paragraph}{Dimostrazione:}{69}
+\contentsline {paragraph}{}{69}
+\contentsline {paragraph}{}{69}
+\contentsline {subsection}{\numberline {5.4.4}Nodi del Navigational Sketch e \emph {articulation points}}{70}
+\contentsline {paragraph}{Teorema 4:}{70}
+\contentsline {paragraph}{Dimostrazione:}{70}
+\contentsline {paragraph}{}{70}
+\contentsline {paragraph}{}{70}
+\contentsline {subsection}{\numberline {5.4.5}Somma di Navigational Sketch}{71}
+\contentsline {paragraph}{Teorema 5:}{71}
+\contentsline {paragraph}{Dimostrazione:}{71}
+\contentsline {section}{\numberline {5.5}L'input}{71}
+\contentsline {subsection}{\numberline {5.5.1}L'input ai Mapper}{72}
+\contentsline {subsection}{\numberline {5.5.2}Commutativit\IeC {\`a} dell'input}{72}
+\contentsline {paragraph}{}{72}
+\contentsline {subsection}{\numberline {5.5.3}Associativit\IeC {\`a} dell'input}{72}
+\contentsline {paragraph}{}{72}
+\contentsline {section}{\numberline {5.6}I Mapper output}{73}
+\contentsline {subsection}{\numberline {5.6.1}L'output di \emph {Map()}}{73}
+\contentsline {paragraph}{}{73}
+\contentsline {subsection}{\numberline {5.6.2}L'output di \emph {Combine()}}{73}
+\contentsline {paragraph}{}{73}
+\contentsline {paragraph}{}{73}
+\contentsline {paragraph}{}{73}
+\contentsline {paragraph}{}{74}
+\contentsline {subsection}{\numberline {5.6.3}Commutativit\IeC {\`a} dell'output intermedio}{74}
+\contentsline {paragraph}{}{74}
+\contentsline {section}{\numberline {5.7}L'output}{74}
+\contentsline {subsection}{\numberline {5.7.1}Scrittura dell'output}{74}
+\contentsline {subsection}{\numberline {5.7.2}Prelevamento dell'output}{74}
+\contentsline {section}{\numberline {5.8}Esecuzione di HitSoop su cluster}{75}
+\contentsline {chapter}{\numberline {6}Vantaggio dell'elaborazione MapReduce}{76}
+\contentsline {section}{\numberline {6.1}Perch\IeC {\'e} funziona}{76}
+\contentsline {paragraph}{}{76}
+\contentsline {section}{\numberline {6.2}Vantaggi nel modello streaming}{77}
+\contentsline {paragraph}{}{77}
+\contentsline {chapter}{\numberline {7}Futuri sviluppi}{78}
+\contentsline {paragraph}{}{78}
+\contentsline {chapter}{\numberline {8}Conclusioni}{79}
+\contentsline {chapter}{\numberline {A}Dati sulle esecuzioni di HitSoop}{81}
+\contentsline {section}{\numberline {A.1}Esecuzione su dutchElite senza Combiner}{81}
+\contentsline {section}{\numberline {A.2}Esecuzione su dutchElite con Combiner}{84}
+\contentsline {section}{\numberline {A.3}Esecuzione su cnr-2005 senza Combiner}{87}
+\contentsline {section}{\numberline {A.4}Esecuzione su cnr-2005 con Combiner}{90}
+\contentsline {section}{\numberline {A.5}Bytes letti in input}{93}
+\contentsline {paragraph}{}{93}
+\contentsline {paragraph}{}{93}
+\contentsline {paragraph}{}{94}
+\contentsline {paragraph}{}{94}
+\contentsline {section}{\numberline {A.6}Bytes scritti in otput}{95}
+\contentsline {paragraph}{}{95}
+\contentsline {paragraph}{}{95}
+\contentsline {paragraph}{}{96}
+\contentsline {paragraph}{}{96}
+\contentsline {section}{\numberline {A.7}Bites letti e scritti dal/sul HDFS}{97}
+\contentsline {paragraph}{}{97}
+\contentsline {paragraph}{}{98}
+\contentsline {paragraph}{}{99}
+\contentsline {paragraph}{}{100}
+\contentsline {section}{\numberline {A.8}Flussi di records nel framework Hadoop MapReduce}{101}
+\contentsline {paragraph}{}{101}
+\contentsline {paragraph}{}{102}
+\contentsline {paragraph}{}{103}
+\contentsline {paragraph}{}{104}
+\contentsline {section}{\numberline {A.9}Flussi di bytes nel framework Hadoop MapReduce}{105}
+\contentsline {paragraph}{}{105}
+\contentsline {paragraph}{}{106}
+\contentsline {paragraph}{}{106}
+\contentsline {paragraph}{}{107}
+\contentsline {chapter}{\numberline {B}Fonti degli input}{108}

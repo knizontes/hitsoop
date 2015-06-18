@@ -1,0 +1,991 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.5)  12 FEB 2013 15:21
+entering extended mode
+ %&-line parsing enabled.
+**AtFirstLookInMapReduce.tex
+(./AtFirstLookInMapReduce.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, italian, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texmf-texlive/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count88
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/italian.ldf
+Language: italian 2008/03/14 v1.2t Italian support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+)
+Package babel Info: Making " an active character on input line 94.
+))
+(/usr/share/texmf-texlive/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 285.
+LaTeX Info: Redefining \nocite on input line 356.
+Package: cite 2009/08/29  v 5.2
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\lst@mode=\count90
+\lst@gtempboxa=\box26
+\lst@token=\toks20
+\lst@length=\count91
+\lst@currlwidth=\dimen104
+\lst@column=\count92
+\lst@pos=\count93
+\lst@lostspace=\dimen105
+\lst@width=\dimen106
+\lst@newlines=\count94
+\lst@lineno=\count95
+\lst@maxwidth=\dimen107
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count96
+\lst@skipnumbers=\count97
+\lst@framebox=\box27
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/titlepic/titlepic.sty
+Package: titlepic 2009/08/03 1.1 Package to display a picture on the title page
+
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count98
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+(./AtFirstLookInMapReduce.aux
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+
+LaTeX Warning: Label `tab:fonti' multiply defined.
+
+)
+\openout1 = `AtFirstLookInMapReduce.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 47.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 47.
+ (/usr/share/texmf-texlive/tex/generic/babel/lgrcmr.fd
+File: lgrcmr.fd 2008/06/17 v2.3 Greek Computer Modern
+)
+LaTeX Font Info:    ... okay on input line 47.
+
+(/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+
+fontencoding LGR patched
+)
+\c@lstlisting=\count99
+ (/usr/share/texmf/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen110
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen111
+\MPnumerator=\count104
+\everyMPtoPDFconversion=\toks22
+) <torVergataLogo.jpg, id=1, 377.41pt x 254.9525pt>
+File: torVergataLogo.jpg Graphic file (type jpg)
+ <use torVergataLogo.jpg>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 51.
+
+Overfull \hbox (115.09367pt too wide) in paragraph at lines 51--51
+ [][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./torVergataLogo.jpg>]
+(./AtFirstLookInMapReduce.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 6.
+ [1
+
+] [2] [3])
+\tf@toc=\write3
+\openout3 = `AtFirstLookInMapReduce.toc'.
+
+ [4]
+<images/k&t.png, id=26, 844.756pt x 597.432pt>
+File: images/k&t.png Graphic file (type png)
+ <use images/k&t.png>
+Overfull \hbox (1.34999pt too wide) in paragraph at lines 57--58
+ [] 
+ []
+
+[5
+
+ <./images/k&t.png>] [6
+
+]
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+) [7
+
+]
+Capitolo 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 101.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
+
+<images/grafo_input_notit.png, id=39, 715.17188pt x 417.05812pt>
+File: images/grafo_input_notit.png Graphic file (type png)
+
+<use images/grafo_input_notit.png> [8
+
+]
+<images/componenti_connesse_notit.png, id=45, 813.0375pt x 531.48563pt>
+File: images/componenti_connesse_notit.png Graphic file (type png)
+
+<use images/componenti_connesse_notit.png>
+Underfull \hbox (badness 10000) in paragraph at lines 128--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--138
+
+ []
+
+[9 <./images/grafo_input_notit.png (PNG copy)>]
+<images/componenti_biconnesse_notit.png, id=51, 834.86906pt x 481.8pt>
+File: images/componenti_biconnesse_notit.png Graphic file (type png)
+
+<use images/componenti_biconnesse_notit.png>
+Underfull \hbox (badness 10000) in paragraph at lines 139--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--145
+
+ []
+
+<images/articulation_point_notit.png, id=52, 715.17188pt x 494.59781pt>
+File: images/articulation_point_notit.png Graphic file (type png)
+
+<use images/articulation_point_notit.png>
+Underfull \hbox (badness 10000) in paragraph at lines 146--149
+
+ []
+
+[10 <./images/componenti_connesse_notit.png (PNG copy)> <./images/componenti_bi
+connesse_notit.png (PNG copy)>]
+<images/bridges_notit.png, id=56, 715.17188pt x 444.15938pt>
+File: images/bridges_notit.png Graphic file (type png)
+
+<use images/bridges_notit.png>
+Underfull \hbox (badness 10000) in paragraph at lines 151--153
+
+ []
+
+[11 <./images/articulation_point_notit.png (PNG copy)> <./images/bridges_notit.
+png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 165--171
+
+ []
+
+<images/da_grafo_a_NS.png, id=60, 532.23843pt x 271.0125pt>
+File: images/da_grafo_a_NS.png Graphic file (type png)
+
+<use images/da_grafo_a_NS.png> [12]
+Overfull \hbox (3.1354pt too wide) in paragraph at lines 195--199
+[] \OT1/cmr/m/n/10.95 in cui l'in-sie-me di no-di $\OML/cmm/m/it/10.95 V[]$ \OT
+1/cmr/m/n/10.95 ^^Re lo stes-so di $\OML/cmm/m/it/10.95 G$ \OT1/cmr/m/n/10.95 (
+ovvero[]),
+ []
+
+<images/navigational-sketch_notit.png, id=66, 795.72281pt x 514.17094pt>
+File: images/navigational-sketch_notit.png Graphic file (type png)
+
+<use images/navigational-sketch_notit.png> [13 <./images/da_grafo_a_NS.png (PNG
+ copy)> <./images/navigational-sketch_notit.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 221--224
+
+ []
+
+[14] [15] <images/modifiche_ns.png, id=76, 587.94656pt x 535.2497pt>
+File: images/modifiche_ns.png Graphic file (type png)
+
+<use images/modifiche_ns.png> [16 <./images/modifiche_ns.png (PNG copy)>]
+[17] [18] [19]
+Overfull \hbox (37.35515pt too wide) in paragraph at lines 397--398
+ \OT1/cmr/bx/n/10.95 D :[] \OT1/cmr/m/n/10.95 unio-ne di no-di con-nes-si da ar
+-chi \OT1/cmr/m/it/10.95 so-lid \OT1/cmr/m/n/10.95 o [] 
+ []
+
+
+Overfull \hbox (11.11827pt too wide) in paragraph at lines 399--400
+ \OT1/cmr/bx/n/10.95 E :[] \OT1/cmr/m/n/10.95 ri-cer-ca del per-cor-so tra due 
+no-di $\OMS/cmsy/m/n/10.95 !  \OML/cmm/m/it/10.95 LeastCommonAncestor\OT1/cmr/m
+/n/10.95 (\OML/cmm/m/it/10.95 LCA\OT1/cmr/m/n/10.95 )$ 
+ []
+
+
+Overfull \hbox (72.51947pt too wide) in paragraph at lines 411--412
+[]\OT1/cmr/m/n/10.95 l'elemento rap-pre-sen-ta-ti-vo del-la com-po-nen-te [] 
+ []
+
+
+Overfull \hbox (64.2686pt too wide) in paragraph at lines 412--413
+[]\OT1/cmr/m/n/10.95 il fra-tel-lo si-ni-stro di $\OML/cmm/m/it/10.95 v$ \OT1/c
+mr/m/n/10.95 nel-la sua com-po-nen-te [] 
+ []
+
+
+Overfull \hbox (63.73827pt too wide) in paragraph at lines 413--414
+[]\OT1/cmr/m/n/10.95 il fra-tel-lo de-stro di $\OML/cmm/m/it/10.95 v$ \OT1/cmr/
+m/n/10.95 nel-la sua com-po-nen-te [] 
+ []
+
+
+Overfull \hbox (54.53941pt too wide) in paragraph at lines 414--415
+[]\OT1/cmr/m/n/10.95 l'elemento rap-pre-sen-ta-ti-vo del-la com-po-nen-te [] 
+ []
+
+<images/ns_in_memoria.png, id=91, 574.39594pt x 362.85562pt>
+File: images/ns_in_memoria.png Graphic file (type png)
+
+<use images/ns_in_memoria.png> [20] [21 <./images/ns_in_memoria.png (PNG copy)>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 480--482
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--491
+
+ []
+
+[23]
+Capitolo 2.
+
+Overfull \hbox (12.173pt too wide) in paragraph at lines 500--507
+ [] \OT1/cmr/m/n/10.95 Lo svi-lup-pa-to-re di un'ap-pli-ca-zio-ne Ma-pRe-du-ce 
+de-fi-ni-sce la fun-zio-ne [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--507
+
+ []
+
+
+Overfull \hbox (14.66945pt too wide) in paragraph at lines 508--510
+[]\OT1/cmr/m/n/10.95 Da ora in avan-ti fa-re-mo ri-fe-ri-men-to ad una ge-ne-ri
+-ca cop-pia []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--523
+
+ []
+
+[24
+
+] [25] [26]
+Overfull \hbox (7.91602pt too wide) in paragraph at lines 593--593
+[]  \OT1/cmtt/m/n/10.95 emissione delle coppie \mbox{$<$chiave, valore$>$} inte
+rmedie;[] 
+ []
+
+
+Overfull \hbox (65.4029pt too wide) in paragraph at lines 634--634
+[]  \OT1/cmtt/m/n/10.95 /* key: chiave intermedia, serve a selezionare i valori
+ intermedi su cui[] 
+ []
+
+
+Overfull \hbox (94.14633pt too wide) in paragraph at lines 634--634
+[]    \OT1/cmtt/m/n/10.95 *  values: l'insieme dei valori intermedi che condivi
+dono la stessa chiave.[] 
+ []
+
+[27] [28]
+<images/flusso-esecuzione-map-reduce.png, id=121, 845.40843pt x 597.73312pt>
+File: images/flusso-esecuzione-map-reduce.png Graphic file (type png)
+
+<use images/flusso-esecuzione-map-reduce.png> [29] [30 <./images/flusso-esecuzi
+one-map-reduce.png>] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 781--783
+
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 781--783
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--786
+
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 783--786
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--788
+
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 786--788
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--793
+
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 791--793
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--793
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 802--813
+
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 802--813
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 802--813
+
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 802--813
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 802--813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 802--813
+
+ []
+
+
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 802--813
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 802--813
+
+ []
+
+[33]
+Capitolo 3.
+<images/hadoop+elephant_rgb.png, id=139, 598.1547pt x 213.6783pt>
+File: images/hadoop+elephant_rgb.png Graphic file (type png)
+
+<use images/hadoop+elephant_rgb.png> [34
+
+ <./images/hadoop+elephant_rgb.png (PNG copy)>] [35] [36]
+<images/master-slaves-hadoop.png, id=150, 585.68813pt x 215.30438pt>
+File: images/master-slaves-hadoop.png Graphic file (type png)
+
+<use images/master-slaves-hadoop.png> [37 <./images/master-slaves-hadoop.png (P
+NG copy)>] [38] [39] [40] [41]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 1062
+.
+
+(/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1062.
+
+ [42]
+Overfull \hbox (39.41914pt too wide) in paragraph at lines 1104--1107
+ [] \OT1/cmr/m/n/10.95 Per com-pi-la-re i sor-gen-ti Ja-va che fan-no ri-fe-ri-
+men-to al-le li-bre-rie \OT1/cmr/m/it/10.95 org.apache.hadoop.*
+ []
+
+[43] [44]
+Overfull \hbox (59.6542pt too wide) in paragraph at lines 1194--1194
+[] \OT1/cmtt/m/n/10.95 ~hadoop-dir/bin/$ ./hadoop dfs -get folder/ destination_
+dir_in_local_fs/[] 
+ []
+
+[45]
+Capitolo 4.
+[46
+
+] <images/hitsura-input.png, id=182, 258.21469pt x 235.63031pt>
+File: images/hitsura-input.png Graphic file (type png)
+
+<use images/hitsura-input.png> [47 <./images/hitsura-input.png (PNG copy)>]
+[48] [49] [50]
+Overfull \hbox (3.76308pt too wide) in paragraph at lines 1371--1376
+\OT1/cmr/m/n/10.95 po-si-zio-ne del no-do nel-la fo-re-sta (gli at-tri-bu-ti \O
+T1/cmr/m/it/10.95 fa-ther\OT1/cmr/m/n/10.95 , \OT1/cmr/m/it/10.95 left[]brother
+\OT1/cmr/m/n/10.95 , \OT1/cmr/m/it/10.95 right[]brother\OT1/cmr/m/n/10.95 ,
+ []
+
+[51] <images/strong_brothers.png, id=200, 606.76688pt x 406.51875pt>
+File: images/strong_brothers.png Graphic file (type png)
+
+<use images/strong_brothers.png> [52 <./images/strong_brothers.png (PNG copy)>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1455--1464
+
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 1487--1499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1487--1499
+
+ []
+
+[54] [55] [56]
+Overfull \hbox (5.30112pt too wide) in paragraph at lines 1568--1571
+[][]\OT1/cmtt/m/n/10.95 private void bccUnionSetup(AFLNode and,AFLNode bnd) \OT
+1/cmr/m/n/10.95 fon-de tra
+ []
+
+
+Overfull \hbox (18.56244pt too wide) in paragraph at lines 1587--1589
+[][]\OT1/cmtt/m/n/10.95 public void printFileNavigationalSketch(PrintStream out
+) \OT1/cmr/m/n/10.95 stam-
+ []
+
+[57]
+Overfull \hbox (18.07849pt too wide) in paragraph at lines 1620--1622
+\OT1/cmr/m/n/10.95 fra-tel-lo si-ni-stro non con-ti-guo me-mo-riz-za-to nel cam
+-po []\OT1/cmtt/m/n/10.95 strongLeftBrother\OT1/cmr/m/n/10.95 ; 
+ []
+
+
+Overfull \hbox (18.29134pt too wide) in paragraph at lines 1622--1624
+\OT1/cmr/m/n/10.95 fra-tel-lo de-stro non con-ti-guo me-mo-riz-za-to nel cam-po
+ []\OT1/cmtt/m/n/10.95 strongRightBrother\OT1/cmr/m/n/10.95 . 
+ []
+
+
+Overfull \hbox (0.4667pt too wide) in paragraph at lines 1628--1630
+[][]\OT1/cmtt/m/n/10.95 protected int getDepth()\OT1/cmr/m/n/10.95 : ri-tor-na 
+il nu-me-ro di ar-chi del ti-po padre-
+ []
+
+
+Overfull \hbox (4.35805pt too wide) in paragraph at lines 1630--1633
+[][]\OT1/cmtt/m/n/10.95 protected Boolean hasLeftBrother(AFLNode target_node)\O
+T1/cmr/m/n/10.95 : ri-tor-
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 1639--1642
+
+ []
+
+[59]
+Capitolo 5.
+[60
+
+] [61] <images/input-hitsoop.png, id=233, 329.73187pt x 278.54062pt>
+File: images/input-hitsoop.png Graphic file (type png)
+
+<use images/input-hitsoop.png> [62 <./images/input-hitsoop.png (PNG copy)>]
+<images/flusso_reduce.png, id=237, 845.40843pt x 597.73312pt>
+File: images/flusso_reduce.png Graphic file (type png)
+
+<use images/flusso_reduce.png>
+Overfull \hbox (57.61719pt too wide) in paragraph at lines 1750--1754
+[]\OT1/cmtt/m/n/10.95 brotherList \OT1/cmr/m/n/10.95 del-la fun-zio-ne []\OT1/c
+mtt/m/n/10.95 public void add_brother_list (String brotherList)\OT1/cmr/m/n/10.
+95 :
+ []
+
+[63 <./images/flusso_reduce.png>]
+Overfull \hbox (50.89378pt too wide) in paragraph at lines 1773--1776
+[]\OT1/cmr/m/n/10.95 su ogni no-do $\OML/cmm/m/it/10.95 b[] \OMS/cmsy/m/n/10.95
+ 2 \OML/cmm/m/it/10.95 unionTreeLst$ \OT1/cmr/m/n/10.95 vie-ne ese-gui-ta la fu
+n-zio-ne $\OML/cmm/m/it/10.95 CCUnionSetup\OT1/cmr/m/n/10.95 ()$
+ []
+
+
+Overfull \hbox (21.7632pt too wide) in paragraph at lines 1773--1776
+\OT1/cmr/m/n/10.95 se non ap-par-tie-ne an-co-ra al-la com-po-nen-te con-nes-sa
+ di $\OML/cmm/m/it/10.95 node[]connecter$\OT1/cmr/m/n/10.95 ,
+ []
+
+<images/flusso_HitSoop.png, id=241, 845.40843pt x 597.73312pt>
+File: images/flusso_HitSoop.png Graphic file (type png)
+
+<use images/flusso_HitSoop.png> [64]
+Overfull \hbox (8.75362pt too wide) in paragraph at lines 1787--1790
+\OT1/cmr/m/n/10.95 Hi-tSoop di-mo-stran-do che do-po ogni chia-ma-ta del-la fun
+-zio-ne $\OML/cmm/m/it/10.95 add[]brother[]list\OT1/cmr/m/n/10.95 ()$
+ []
+
+[65 <./images/flusso_HitSoop.png>] [66] [67] [68] [69] [70]
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1999
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1999
+
+ []
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 2025--2026
+
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 2055--2059
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2064--2069
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2064--2069
+
+ []
+
+[73]
+Overfull \hbox (45.89476pt too wide) in paragraph at lines 2093--2095
+\OT1/cmr/m/n/10.95 3.4.7[]). Per esem-pio, se l'out-put ^^Re nel-la di-rec-to-r
+y del \OT1/cmr/m/it/10.95 HDFS []\OT1/cmtt/m/n/10.95 /user/username/output/\OT1
+/cmr/m/n/10.95 ,
+ []
+
+
+Overfull \hbox (48.15683pt too wide) in paragraph at lines 2097--2097
+[] \OT1/cmtt/m/n/10.95 ~hadoop-dir/bin/$ ./hadoop dfs -get output destination_d
+ir_in_local_fs[] 
+ []
+
+[74] [75]
+Capitolo 6.
+
+Overfull \hbox (44.09337pt too wide) in paragraph at lines 2151--2156
+ [] \OT1/cmr/m/n/10.95 Ad esem-pio, sup-po-nia-mo di ave-re una ca-te-na di no-
+di fra-tel-li $\OML/cmm/m/it/10.95 < n[];  n[];  n[];  n[];  n[] >$\OT1/cmr/m/n
+/10.95 .
+ []
+
+
+Overfull \hbox (74.36188pt too wide) in paragraph at lines 2151--2156
+\OT1/cmr/m/n/10.95 Que-sta po-treb-be es-se-re sta-ta ge-ne-ra-ta a par-ti-re d
+a-gli ar-chi $\OML/cmm/m/it/10.95 e\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 n[];
+ n[]\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ;  e\OT1/cmr/m/n/10.95 (\OML/cmm/m/
+it/10.95 n[]; n[]\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 ;  :::;  e\OT1/cmr/m/n
+/10.95 (\OML/cmm/m/it/10.95 n[];  n[]\OT1/cmr/m/n/10.95 )$,
+ []
+
+[76
+
+] [77]
+Capitolo 7.
+[78
+
+]
+Capitolo 8.
+(./AtFirstLookInMapReduce.bbl [79
+
+]) [80
+
+]
+Appendice A.
+[81
+
+] [82] [83] [84
+
+
+] [85] [86] [87
+
+
+] [88] [89] [90
+
+
+] [91] [92]
+<images/grafici/deBR.png, id=334, 624.3325pt x 506.89375pt>
+File: images/grafici/deBR.png Graphic file (type png)
+
+<use images/grafici/deBR.png>
+<images/grafici/decombBR.png, id=335, 624.3325pt x 506.89375pt>
+File: images/grafici/decombBR.png Graphic file (type png)
+
+<use images/grafici/decombBR.png>
+<images/grafici/cnrBR.png, id=336, 624.3325pt x 506.89375pt>
+File: images/grafici/cnrBR.png Graphic file (type png)
+
+<use images/grafici/cnrBR.png> [93
+
+
+ <./images/grafici/deBR.png (PNG copy)> <./images/grafici/decombBR.png (PNG cop
+y)>]
+<images/grafici/cnr_combBR.png, id=340, 351.3125pt x 285.065pt>
+File: images/grafici/cnr_combBR.png Graphic file (type png)
+
+<use images/grafici/cnr_combBR.png>
+<images/grafici/deBW.png, id=341, 624.3325pt x 506.89375pt>
+File: images/grafici/deBW.png Graphic file (type png)
+
+<use images/grafici/deBW.png> [94 <./images/grafici/cnrBR.png (PNG copy)> <./im
+ages/grafici/cnr_combBR.png (PNG copy)>]
+<images/grafici/decombBW.png, id=345, 624.3325pt x 506.89375pt>
+File: images/grafici/decombBW.png Graphic file (type png)
+
+<use images/grafici/decombBW.png>
+<images/grafici/cnrBW.png, id=346, 624.3325pt x 506.89375pt>
+File: images/grafici/cnrBW.png Graphic file (type png)
+
+<use images/grafici/cnrBW.png> [95 <./images/grafici/deBW.png (PNG copy)> <./im
+ages/grafici/decombBW.png (PNG copy)>]
+<images/grafici/cnr_combBW.png, id=350, 624.3325pt x 506.89375pt>
+File: images/grafici/cnr_combBW.png Graphic file (type png)
+
+<use images/grafici/cnr_combBW.png>
+<images/grafici/deFS.png, id=351, 676.5275pt x 519.9425pt>
+File: images/grafici/deFS.png Graphic file (type png)
+
+<use images/grafici/deFS.png> [96 <./images/grafici/cnrBW.png (PNG copy)> <./im
+ages/grafici/cnr_combBW.png (PNG copy)>]
+<images/grafici/deCombFS.png, id=356, 676.5275pt x 519.9425pt>
+File: images/grafici/deCombFS.png Graphic file (type png)
+
+<use images/grafici/deCombFS.png> [97 <./images/grafici/deFS.png (PNG copy)>]
+<images/grafici/cnrFS.png, id=360, 676.5275pt x 519.9425pt>
+File: images/grafici/cnrFS.png Graphic file (type png)
+
+<use images/grafici/cnrFS.png> [98 <./images/grafici/deCombFS.png (PNG copy)>]
+<images/grafici/cnrCombFS.png, id=364, 676.5275pt x 519.9425pt>
+File: images/grafici/cnrCombFS.png Graphic file (type png)
+
+<use images/grafici/cnrCombFS.png> [99 <./images/grafici/cnrFS.png (PNG copy)>]
+<images/grafici/deMRRec.png, id=368, 773.89125pt x 454.69875pt>
+File: images/grafici/deMRRec.png Graphic file (type png)
+
+<use images/grafici/deMRRec.png> [100 <./images/grafici/cnrCombFS.png (PNG copy
+)>] <images/grafici/deCombMRRec.png, id=372, 773.89125pt x 454.69875pt>
+File: images/grafici/deCombMRRec.png Graphic file (type png)
+
+<use images/grafici/deCombMRRec.png> [101 <./images/grafici/deMRRec.png (PNG co
+py)>] <images/grafici/cnrMRRec.png, id=376, 773.89125pt x 454.69875pt>
+File: images/grafici/cnrMRRec.png Graphic file (type png)
+
+<use images/grafici/cnrMRRec.png> [102 <./images/grafici/deCombMRRec.png (PNG c
+opy)>] <images/grafici/cnrCombMRRec.png, id=381, 773.89125pt x 454.69875pt>
+File: images/grafici/cnrCombMRRec.png Graphic file (type png)
+
+<use images/grafici/cnrCombMRRec.png> [103 <./images/grafici/cnrMRRec.png (PNG 
+copy)>] <images/grafici/deMRB.png, id=385, 814.04124pt x 431.6125pt>
+File: images/grafici/deMRB.png Graphic file (type png)
+
+<use images/grafici/deMRB.png> [104 <./images/grafici/cnrCombMRRec.png (PNG cop
+y)>] <images/grafici/deCombMRB.png, id=389, 814.04124pt x 431.6125pt>
+File: images/grafici/deCombMRB.png Graphic file (type png)
+
+<use images/grafici/deCombMRB.png> [105 <./images/grafici/deMRB.png (PNG copy)>
+] <images/grafici/cnrMRB.png, id=393, 814.04124pt x 431.6125pt>
+File: images/grafici/cnrMRB.png Graphic file (type png)
+
+<use images/grafici/cnrMRB.png>
+<images/grafici/cnrCombMRB.png, id=394, 814.04124pt x 431.6125pt>
+File: images/grafici/cnrCombMRB.png Graphic file (type png)
+
+<use images/grafici/cnrCombMRB.png> [106 <./images/grafici/deCombMRB.png (PNG c
+opy)> <./images/grafici/cnrMRB.png (PNG copy)>] [107 <./images/grafici/cnrCombM
+RB.png (PNG copy)>]
+Appendice B.
+
+Overfull \hbox (34.74924pt too wide) in paragraph at lines 2739--2755
+[][] 
+ []
+
+[108
+
+] [109
+
+] (./AtFirstLookInMapReduce.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4583 strings out of 495052
+ 66315 string characters out of 1182207
+ 145621 words of memory out of 3000000
+ 7686 multiletter control sequences out of 15000+50000
+ 11921 words of font info for 41 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 26i,19n,36p,349b,1214s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on AtFirstLookInMapReduce.pdf (110 pages, 2663596 bytes).
+PDF statistics:
+ 465 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+

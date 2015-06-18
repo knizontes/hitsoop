@@ -1,0 +1,22 @@
+@article{mori:tesi,
+author= {Mori, Lapo Filippo},
+title= {Scrivere la tesi di laurea con LaTeXe},
+journaltitle = {Ars},
+number= {3},
+year= {2007}
+}
+
+@online{guit,
+title ={Gruppo Utilizzatori di TeX{} e LaTeX},
+year ={2009},
+url ={http://www.guit.sssup.it/},
+sortkey={guit},
+label={GuIT},
+}
+
+
+
+
+
+
+

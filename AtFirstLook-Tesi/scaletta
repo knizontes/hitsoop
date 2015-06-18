@@ -1,0 +1,107 @@
+Argomenti da trattare
+
+/\Scaletta generale
+
+AFL:
+Analisi topologia- ricerca componenti connnesse e biconnesse
+Casi applicativi
+Come funziona
+MapReduce:
+MapReduce - paradigma
+Parallelismo automatizzato
+Problemi "hidden": 	gestione rete eterogenea
+			fault tolerance
+			ridondanza
+			task scheduling
+			file system distribuito
+Come funziona MapReduce
+Funzione Map
+Funzione Reduce
+Mapper
+Shuffler
+Reducer
+Implementazione su Hadoop
+
+/\ Compendio
+Ricerca di componenti connesse e biconnesse con at first look
+(Altre caratteristiche generiche di at first look)
+Implementazione Map Reduce
+Risultato implementazione
+
+/\ Introduzione
+Esempi Problemi correlati all'appartenenza di nodi a componenti connesse o biconnesse
+At First Look - Tempo ammortizzato
+Motivazioni studio Afl
+Contributo
+Organizzazione lavoro
+
+/\ At First Look
+1. L'algoritmo "At First Look"
+2. 
+
+
+/\ Map Reduce
+
+1. Paradigma Map Reduce
+8. Automatizzazione parallelismo
+7. Problemi celati
+4a. Struttura
+4b. Input splitting
+4c. Task scheduling
+2. La funzione Map
+3. La funzione Reduce
+4d. I mapper
+5. Lo shuffler
+6. Il reducer
+
+ 
+
+
+
+/\ Hadoop
+
+1. Cos'è
+
+2. MapReduce!
+2b. Elaborazione e filesystem distribuito
+2c. Il cluster hadoop
+
+3. Master, TaskTracker e Namenode
+3. Scheduler
+
+4. Slaves, JobTracker e Datanode
+5. Configurazione cluster
+
+6. Soluzione problemi parallelizzazione:
+6a. Fault tolerance
+6b. Rete eterogenea e java
+
+7. linux e porting
+
+
+
+
+
+
+/\ L'implementazione di AFL
+Perfezionamento algoritmo (tempo ammortizzato e strutture dati, aggiornamento in lettura dei nodi, vantaggi in termini di tempo)
+codice
+
+/\ L'implementazione di AFL su Hadoop
+Elaborazione parziale e vantaggi
+Output intermedi
+
+
+/\ Vantaggi elaborazione su cluster
+Tempi di esecuzione - confronto
+Consumo risorse
+Costi
+
+/\ Conclusioni
+vantaggio uso cluster algoritmo tempo ammortizzato su larghi input
+ 
+Futuri sviluppi
+Uso per astrarre condizioni sufficienti per efinire una classe di algoritmi sicuramente
+implementabili in mapreduce.
+
+/\ Bibliografia

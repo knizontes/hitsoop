@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+
+\bibitem{mapreduce:google}
+Introduction to parallel programming and mapreduce.
+
+\bibitem{hadoop:hadoop}
+Apache Foundation.
+
+\bibitem{hadoop_MapReduce:hadoop}
+Apache Foundation.
+
+\bibitem{AFL:article}
+Luigi~Laura Giorgio~Ausiello, Donatella~Firmani.
+\newblock Datastream computation of graph biconnectivity: Articulation points,
+  bridges, and biconnected components.
+\newblock 2010.
+
+\bibitem{AFLDetection:articolo}
+Luigi~Laura Giorgio~Ausiello, Donatella~Firmani.
+\newblock Real-time anomalies detection and analysis of network structure, with
+  application to the autonomous system network.
+\newblock 2011.
+
+\bibitem{AFLNetworks:articolo}
+Luigi~Laura Giorgio~Ausiello, Donatella~Firmani.
+\newblock Real-time monitoring of undirected networks: Articulation points,
+  bridges, and connected and biconnected components.
+\newblock 2011.
+
+\bibitem{mapreduce:tutorial}
+Michael~T. Goodrich.
+\newblock Simulating parallel algorithms in the mapreduce framework with
+  applications to parallel computational geometr.
+
+\bibitem{mapreduce:model}
+Sergei~Vassilvitskii Howard~Karloff, Siddharth~Suri.
+\newblock A model of computation for mapreduce.
+
+\bibitem{mapreduce:pres}
+Sanjay~Ghemawat Jeffrey~Dean.
+\newblock Mapreduce: A flexible data processing tool.
+\newblock 2010.
+
+\bibitem{mapreduce:cluster}
+Jelena Pjesivac-Grbovic Jerry~Zhao.
+\newblock Mapreduce: Simplified data processing on large clusters.
+
+\bibitem{hadoop_MapReduce:yahoo}
+Yahoo~Developer Network.
+
+\bibitem{ProHadoop:libro}
+Jason Venner.
+\newblock {\em ProHadoop}.
+\newblock Apress, first edition edition, 2009.
+
+\bibitem{Hadoop:libro}
+Tom White.
+\newblock {\em Hadoop, the Definitive Guide}.
+\newblock O'Reilly, first edition edition, June 2010.
+
+\end{thebibliography}
